@@ -20,9 +20,9 @@ create table users (
 
 */
 
-define('DSN', 'mysql:host=localhost;dbname=dotinstall_google_connect_php');
-define('DB_USER', 'dbuser');
-define('DB_PASSWORD', 'a8sdfnc');
+define('DSN', 'mysql:host=28072mysql.mysql.database.azure.com;dbname=tdspoc2018_google_connect_php');
+define('DB_USER', 'pocadmin@28072mysql');
+define('DB_PASSWORD', 'Tds00000');
 
 define('CLIENT_ID', '820797112054-auvfqh9emqqcke0h2ef1c0cg68bcd0n7.apps.googleusercontent.com');
 define('CLIENT_SECRET', '3TvLd7OqJgqv8PaH9vqp07v5');
